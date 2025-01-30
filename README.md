@@ -1,1 +1,2 @@
 # CodeClauseInternship_MovieSentimentAnalysis
+CodeClause Internship Entry Task.
